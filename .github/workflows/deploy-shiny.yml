@@ -19,8 +19,7 @@ jobs:
          with:
            fetch-depth: 0
        - id: deploy
-    
-       - name: 💎 Deploy to shinyapps.io
+         name: 💎 Deploy to shinyapps.io
          uses: qwert666/shinyapps-actions@main
          env:
            SHINY_USERNAME: 'katherine-hebert'
