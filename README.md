@@ -6,6 +6,11 @@ This is example is part of [Workshop: Introduction to GitHub and GitHub Actions]
 
 [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Shiny-App&message=Open&color=8FBCBB)](https://katherinehebert.shinyapps.io/myApp/)
 
+## GitHub Actions workflow
+
+See the Actions workflow [here](https://github.com/katherinehebert/demo-deployshiny/actions/workflows/deploy-shiny.yml).
+
+[![Deploy template app to shinyapps.io](https://github.com/katherinehebert/demo-deployshiny/actions/workflows/deploy-shiny.yml/badge.svg)](https://github.com/katherinehebert/demo-deployshiny/actions/workflows/deploy-shiny.yml)
 
 ## 1. Get started with a shinyapps.io account
 
@@ -85,7 +90,3 @@ To access your deployed Shiny app, go to the following url using your own ShinyA
 For example, the app that is deployed here is accessible here:
 
 [katherinehebert.shinyapps.io/myApp](https://katherinehebert.shinyapps.io/myApp/)
-
-### Workflow status
-
-[![Deploy template app to shinyapps.io](https://github.com/katherinehebert/demo-deployshiny/actions/workflows/deploy-shiny.yml/badge.svg)](https://github.com/katherinehebert/demo-deployshiny/actions/workflows/deploy-shiny.yml)
