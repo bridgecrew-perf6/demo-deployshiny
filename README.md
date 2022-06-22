@@ -4,6 +4,9 @@ This is a demo repository to demonstrate a GitHub Actions worflow that deploys a
 
 This is example is part of [Workshop: Introduction to GitHub and GitHub Actions](https://github.com/pedrohbraga/IntroGitHubActions-Workshop), contributed to the 4th QCBS R Symposium on June 23rd, 2022. This workshop is contributed by Pedro Henrique P. Braga (Concordia University) & Katherine Hébert (Université de Sherbrooke).
 
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Shiny-App&message=Open&color=8FBCBB)](https://katherinehebert.shinyapps.io/myApp/)
+
+
 ## 1. Get started with a shinyapps.io account
 
 To deploy your Shiny app to RStudio’s ShinyApps.io, you will need to [make a ShinyApps.io account](https://www.shinyapps.io/admin/#/signup). You can sign up with your GitHub account!
