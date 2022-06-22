@@ -3,7 +3,7 @@ on:
      branches:
        - main
 
-name: render-presentation-en
+name: Deploy template app to shinyapps.io
 
 jobs:
   deploy-shiny:
