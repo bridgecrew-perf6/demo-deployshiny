@@ -85,3 +85,7 @@ To access your deployed Shiny app, go to the following url using your own ShinyA
 For example, the app that is deployed here is accessible here:
 
 [katherinehebert.shinyapps.io/myApp](https://katherinehebert.shinyapps.io/myApp/)
+
+### Workflow status
+
+[![Deploy template app to shinyapps.io](https://github.com/katherinehebert/demo-deployshiny/actions/workflows/deploy-shiny.yml/badge.svg)](https://github.com/katherinehebert/demo-deployshiny/actions/workflows/deploy-shiny.yml)
