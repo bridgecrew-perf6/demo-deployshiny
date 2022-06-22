@@ -1,6 +1,6 @@
 # Deploying a Shiny app with GitHub Actions
 
-This is a demo repository to demonstrate a GitHub Actions worflow that deploys a Shiny app to ShinyApps.io (using the [shinyapps-io-deploy](https://github.com/marketplace/actions/shinyapps-io-deploy) Action).
+This is a demo repository to demonstrate a GitHub Actions workflow that deploys a Shiny app to ShinyApps.io (using the [shinyapps-io-deploy](https://github.com/marketplace/actions/shinyapps-io-deploy) Action).
 
 This is example is part of [Workshop: Introduction to GitHub and GitHub Actions](https://github.com/pedrohbraga/IntroGitHubActions-Workshop), contributed to the 4th QCBS R Symposium on June 23rd, 2022. This workshop is contributed by Pedro Henrique P. Braga (Concordia University) & Katherine Hébert (Université de Sherbrooke).
 
